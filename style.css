@@ -17,8 +17,32 @@
     margin-left: 98px;
 }
 
-.image{
-	width: 31.67px;
-    Height:20.55px;
+.click1{
+	position: absolute;
+    width: 300px;
+    height: 60px;
+    left: 44px;
+    top: 249px;
+    background-color:#333333;
+    color: white;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 36px;
 
+}
+.click2{
+	position: absolute;
+    width: 300px;
+    height: 60px;
+    left: 44px;
+    top: 339px;
+    background-color:#333333;
+    color: white;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 36px;
 }
